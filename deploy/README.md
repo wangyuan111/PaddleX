@@ -16,4 +16,4 @@
   - [Android平台](../docs/deploy/paddlelite/android.md)
 - [OpenVINO部署](../docs/deploy/openvino/introduction.md)
 - [树莓派部署](../docs/deploy/raspberry/Raspberry.md)
-- test2
+- test3
